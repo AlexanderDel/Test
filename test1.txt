@@ -1,4 +1,5 @@
 hello world
-first commit from cmd
-second commit from cmd
+first commit from cmd yes
+success
+second commit from cmd yes
 oof
